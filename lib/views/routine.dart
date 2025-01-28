@@ -18,7 +18,7 @@ class RoutineScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Daily Skincare Routine'),elevation: 0),
+      appBar: AppBar(title: Text('Daily Skincare'),elevation: 0),
       body: Padding(
         padding: const EdgeInsets.all(12.0),
         child: ListView(
