@@ -1,7 +1,7 @@
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:my_trainings_app/utils/colors.dart';
+import 'package:urban_app/utils/colors.dart';
 import '../controllers/skin_care_controller.dart';
 import '../utils/dynamic_height.dart';
 
